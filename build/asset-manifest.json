@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.236ce61f.css",
+    "main.js": "/static/js/main.4f354af8.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/rb_2149251019.png": "/static/media/rb_2149251019.7b6528287b136d9384a0.png",
+    "static/media/uptime.png": "/static/media/uptime.01d6b57779d39b052621.png",
+    "static/media/aerial-view-business-team.jpg": "/static/media/aerial-view-business-team.435f29c59ce1ef5b8b5b.jpg",
+    "static/media/cloud.png": "/static/media/cloud.5f1257d859a25e0a9ead.png",
+    "static/media/woman-using-smartphone-technology_23-2149491868.png": "/static/media/woman-using-smartphone-technology_23-2149491868.7070c1e9c774df44f3cc.png",
+    "static/media/carousel-bg-2.jpg": "/static/media/carousel-bg-2.fc104fddf617497fa8c8.jpg",
+    "static/media/six.jpg": "/static/media/six.13fd40eecd73acbdff20.jpg",
+    "static/media/fifth.jpg": "/static/media/fifth.9c87c7a0a42ce29b4137.jpg",
+    "static/media/2a2b4ee6-dbf0-4532-a5e7-2704b0a1d33a.webp": "/static/media/2a2b4ee6-dbf0-4532-a5e7-2704b0a1d33a.8ea70f2ff62f6418aa74.webp",
+    "static/media/first.jpg": "/static/media/first.65e814372c5fd7117f59.jpg",
+    "static/media/logo icon.jpg": "/static/media/logo icon.1ced0a1d6a9c979c159f.jpg",
+    "static/media/second.jpg": "/static/media/second.1b11465e191b06409288.jpg",
+    "static/media/vehicle.png": "/static/media/vehicle.311e954cc088de28bd5c.png",
+    "static/media/friends.png": "/static/media/friends.d565f32eca063d86ff31.png",
+    "static/media/seven.jpg": "/static/media/seven.8e73b4031750ab4903b0.jpg",
+    "static/media/third.jpg": "/static/media/third.fb410d8b07f4a122a843.jpg",
+    "static/media/ezgif-5-c0946c82f2.jpg": "/static/media/ezgif-5-c0946c82f2.626ed09f962b02941587.jpg",
+    "static/media/forth.jpg": "/static/media/forth.e7fbb6d1c8d29ae5b8c2.jpg",
+    "static/media/enhancement.png": "/static/media/enhancement.2e2eee054cd75d514c91.png",
+    "static/media/customer-service.png": "/static/media/customer-service.90208c058f2352a48f5e.png",
+    "static/media/eight.jpg": "/static/media/eight.720b7a27ca86275e9004.jpg",
+    "static/media/14.png": "/static/media/14.01b2fd8ea94505e51e7e.png",
+    "static/media/11.png": "/static/media/11.ec0a7ad529a4d28a4e39.png",
+    "static/media/5.webp": "/static/media/5.267a41220b0f6f979d0b.webp",
+    "index.html": "/index.html",
+    "main.236ce61f.css.map": "/static/css/main.236ce61f.css.map",
+    "main.4f354af8.js.map": "/static/js/main.4f354af8.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.236ce61f.css",
+    "static/js/main.4f354af8.js"
+  ]
+}
