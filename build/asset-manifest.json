@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.51c4b259.css",
-    "main.js": "/static/js/main.26125399.js",
+    "main.css": "/static/css/main.5c4aaef5.css",
+    "main.js": "/static/js/main.34838cca.js",
     "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
     "static/media/rb_2149251019.png": "/static/media/rb_2149251019.7b6528287b136d9384a0.png",
     "static/media/uptime.png": "/static/media/uptime.01d6b57779d39b052621.png",
@@ -12,7 +12,6 @@
     "static/media/Transport-1.jpg": "/static/media/Transport-1.be98493dd56668ed2cc1.jpg",
     "static/media/Geofence Alerts.jpg": "/static/media/Geofence Alerts.a95216d04bf08eab35a8.jpg",
     "static/media/Recovery of Vehicle Itinerary.jpg": "/static/media/Recovery of Vehicle Itinerary.5685e89f6d1485bd31dd.jpg",
-    "static/media/contact background.jpg": "/static/media/contact background.817ee2071944f74a8af2.jpg",
     "static/media/carousel-bg-2.jpg": "/static/media/carousel-bg-2.fc104fddf617497fa8c8.jpg",
     "static/media/six.jpg": "/static/media/six.13fd40eecd73acbdff20.jpg",
     "static/media/fifth.jpg": "/static/media/fifth.9c87c7a0a42ce29b4137.jpg",
@@ -21,6 +20,7 @@
     "static/media/logo icon.jpg": "/static/media/logo icon.1ced0a1d6a9c979c159f.jpg",
     "static/media/second.jpg": "/static/media/second.1b11465e191b06409288.jpg",
     "static/media/vehicle.png": "/static/media/vehicle.311e954cc088de28bd5c.png",
+    "static/media/contact background.jpg": "/static/media/contact background.ba0b81e8f93824f11f22.jpg",
     "static/media/Suitable for all areas.webp": "/static/media/Suitable for all areas.9bb58371026690f5088b.webp",
     "static/media/friends.png": "/static/media/friends.d565f32eca063d86ff31.png",
     "static/media/seven.jpg": "/static/media/seven.8e73b4031750ab4903b0.jpg",
@@ -38,12 +38,12 @@
     "static/media/fleet protection.png": "/static/media/fleet protection.f7405871fbb44dce4096.png",
     "static/media/fleet tracking.png": "/static/media/fleet tracking.80c3185f099bc7dea848.png",
     "index.html": "/index.html",
-    "main.51c4b259.css.map": "/static/css/main.51c4b259.css.map",
-    "main.26125399.js.map": "/static/js/main.26125399.js.map",
+    "main.5c4aaef5.css.map": "/static/css/main.5c4aaef5.css.map",
+    "main.34838cca.js.map": "/static/js/main.34838cca.js.map",
     "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51c4b259.css",
-    "static/js/main.26125399.js"
+    "static/css/main.5c4aaef5.css",
+    "static/js/main.34838cca.js"
   ]
 }
